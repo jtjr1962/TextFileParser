@@ -1,0 +1,1 @@
+C# text file parser; read file invert case; save back again.
