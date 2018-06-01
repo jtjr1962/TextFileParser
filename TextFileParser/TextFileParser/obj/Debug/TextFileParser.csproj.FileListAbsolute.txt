@@ -1,0 +1,10 @@
+c:\users\jpimley\documents\visual studio 2013\Projects\TextFileParser\TextFileParser\bin\Debug\TextFileParser.exe.config
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\obj\Debug\TextFileParser.csprojResolveAssemblyReference.cache
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\obj\Debug\TextFileParser.Form1.resources
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\obj\Debug\TextFileParser.Properties.Resources.resources
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\obj\Debug\TextFileParser.csproj.GenerateResource.Cache
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\bin\Debug\TextFileParser.exe
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\bin\Debug\TextFileParser.pdb
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\obj\Debug\TextFileParser.exe
+c:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\obj\Debug\TextFileParser.pdb
+C:\Users\jpimley\Documents\Visual Studio 2013\Projects\TextFileParser\TextFileParser\obj\Debug\TextFileParser.csproj.CoreCompileInputs.cache
